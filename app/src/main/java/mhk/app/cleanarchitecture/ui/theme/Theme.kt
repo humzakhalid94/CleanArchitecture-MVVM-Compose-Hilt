@@ -1,4 +1,4 @@
-package com.farhan.tanvir.androidcleanarchitecture.ui.theme
+package mhk.app.cleanarchitecture.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

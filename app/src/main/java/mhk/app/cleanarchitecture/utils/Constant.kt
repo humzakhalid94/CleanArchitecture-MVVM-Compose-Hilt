@@ -1,4 +1,4 @@
-package com.farhan.tanvir.androidcleanarchitecture.util
+package mhk.app.cleanarchitecture.util
 
 
 object Constant {
